@@ -32,7 +32,7 @@ A full-stack task management application built for learning DevOps practices inc
 
 ```mermaid
 flowchart LR
-   subgraph Frontend["Frontend (React + Vite)"]
+   subgraph Frontend["Frontend"]
       FE["React App"]
    end
 
